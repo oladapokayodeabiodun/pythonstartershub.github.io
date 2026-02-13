@@ -1,3 +1,0 @@
-###### "_Every student needs a grandparent to link them to the past and a PC to take them to the future_" :octocat
-# pythonstartershub.io
-... turning curosity into coding
